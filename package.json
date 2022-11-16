@@ -1,0 +1,25 @@
+{
+    "name": "jest-testing-functions",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "jest"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/akhror-valiev/jest-testing-functions.git"
+    },
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/akhror-valiev/jest-testing-functions/issues"
+    },
+    "homepage": "https://github.com/akhror-valiev/jest-testing-functions#readme",
+    "devDependencies": {
+        "@babel/core": "^7.20.2",
+        "@babel/preset-env": "^7.20.2",
+        "babel-jest": "^29.3.1",
+        "jest": "^29.3.1"
+    }
+}
